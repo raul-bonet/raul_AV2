@@ -1,0 +1,10 @@
+//Nathielly,Nicolas e Raul, 19, 20 e 21
+
+for (let i = 0; i <= 2; i++) {
+let nota1=Number(prompt("Escreva a primeira nota do 1°, 2° e 3° alunos"));
+let nota2=Number(prompt("Escreva a segunda nota do 1°, 2° e 3° alunos"));
+let nota3=Number(prompt("Escreva a terceira nota do 1°, 2° e 3° alunos"));
+let media1=(nota1+nota2+nota3)/3;
+  console.log(media1);
+}
+let presenca1=Number(prompt("Escreva a presença do 1°, 2° e 3° alunos"));
